@@ -1,0 +1,6 @@
+# Kiwi PyCon 2016 Schedule Video
+
+## Generating
+
+1. Open slideshow in Impress, and save as pdf.
+2. run `make`
